@@ -43,7 +43,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### How many hours everyone has per day:
 
-- name: _5h_; extra comments?
+- Anastasiia: _5h_; extra comments?
 - name: _6h_;
 - name: _5h_;
 - name: _4h_;
